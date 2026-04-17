@@ -7,5 +7,6 @@ if (si esta esta condicion pasa esto otro)
  //esto es para agregar fotos
 
 
- <img width="800" height="536" alt="bulldog-ingles-bebe" src="https://github.com/user-attachments/assets/a8992311-879d-4f73-82e4-41b28682513f" />
 
+
+panel izquierdo de p5 encontramos INDEX.HTML
